@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
