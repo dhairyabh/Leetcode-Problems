@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
