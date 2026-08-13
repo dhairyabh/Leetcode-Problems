@@ -1,26 +1,111 @@
 class Solution {
 
-    class Node {
-        char leftChar;
-        char rightChar;
+    private static class SegmentTree {
 
-        int length;
-        int prefix;
-        int suffix;
-        int max;
+        private final int n;
+        private final int[] pre;
+        private final int[] suf;
+        private final int[] best;
+        private final char[] cs;
 
-        Node(char c) {
-            leftChar = c;
-            rightChar = c;
-            length = 1;
-            prefix = 1;
-            suffix = 1;
-            max = 1;
+        public SegmentTree(String s) {
+
+            n = s.length();
+
+            pre = new int[n << 2];
+            suf = new int[n << 2];
+            best = new int[n << 2];
+
+            cs = s.toCharArray();
+
+            build(1, 0, n - 1);
+        }
+
+        private void build(int node, int l, int r) {
+
+            // Leaf node
+            if (l == r) {
+                pre[node] = 1;
+                suf[node] = 1;
+                best[node] = 1;
+                return;
+            }
+
+            int mid = (l + r) >>> 1;
+
+            build(node << 1, l, mid);
+            build(node << 1 | 1, mid + 1, r);
+
+            pushUp(node, l, r);
+        }
+
+        private void pushUp(int node, int l, int r) {
+
+            int left = node << 1;
+            int right = node << 1 | 1;
+
+            int mid = (l + r) >>> 1;
+
+            int lenL = mid - l + 1;
+            int lenR = r - mid;
+
+            // Prefix initially comes from the left child
+            pre[node] = pre[left];
+
+            // Suffix initially comes from the right child
+            suf[node] = suf[right];
+
+            // Best answer is initially the best of either child
+            best[node] = Math.max(best[left], best[right]);
+
+            // Can the repeating sequence cross the boundary?
+            if (cs[mid] == cs[mid + 1]) {
+
+                // Entire left segment has the same character
+                if (pre[left] == lenL) {
+                    pre[node] = lenL + pre[right];
+                }
+
+                // Entire right segment has the same character
+                if (suf[right] == lenR) {
+                    suf[node] = lenR + suf[left];
+                }
+
+                // Combine suffix of left + prefix of right
+                best[node] = Math.max(
+                    best[node],
+                    suf[left] + pre[right]
+                );
+            }
+        }
+
+        public void update(int i) {
+            update(1, 0, n - 1, i);
+        }
+
+        private void update(int node, int l, int r, int i) {
+
+            // Reached the leaf
+            if (l == r) {
+                return;
+            }
+
+            int mid = (l + r) >>> 1;
+
+            if (i <= mid) {
+                update(node << 1, l, mid, i);
+            } else {
+                update(node << 1 | 1, mid + 1, r, i);
+            }
+
+            // Recalculate this node
+            pushUp(node, l, r);
+        }
+
+        public void updateChar(char c, int i) {
+            cs[i] = c;
         }
     }
-
-    Node[] tree;
-    char[] arr;
 
     public int[] longestRepeating(
         String s,
@@ -28,138 +113,29 @@ class Solution {
         int[] queryIndices
     ) {
 
-        arr = s.toCharArray();
+        int k = queryIndices.length;
 
-        int n = arr.length;
+        SegmentTree tree = new SegmentTree(s);
 
-        tree = new Node[4 * n];
+        int[] ans = new int[k];
 
-        build(1, 0, n - 1);
+        for (int i = 0; i < k; i++) {
 
-        int[] ans = new int[queryIndices.length];
+            int index = queryIndices[i];
 
-        for(int i = 0; i < queryIndices.length; i++) {
-
-            update(
-                1,
-                0,
-                n - 1,
-                queryIndices[i],
-                queryCharacters.charAt(i)
+            // Change the character
+            tree.updateChar(
+                queryCharacters.charAt(i),
+                index
             );
 
-            ans[i] = tree[1].max;
+            // Update the Segment Tree
+            tree.update(index);
+
+            // Root stores the answer for the entire string
+            ans[i] = tree.best[1];
         }
 
         return ans;
-    }
-
-    // Build Segment Tree
-    void build(int node, int start, int end) {
-
-        if(start == end) {
-            tree[node] = new Node(arr[start]);
-            return;
-        }
-
-        int mid = start + (end - start) / 2;
-
-        build(node * 2, start, mid);
-
-        build(node * 2 + 1, mid + 1, end);
-
-        tree[node] = merge(
-            tree[node * 2],
-            tree[node * 2 + 1]
-        );
-    }
-
-    // Update one character
-    void update(
-        int node,
-        int start,
-        int end,
-        int index,
-        char c
-    ) {
-
-        if(start == end) {
-
-            tree[node] = new Node(c);
-
-            return;
-        }
-
-        int mid = start + (end - start) / 2;
-
-        if(index <= mid) {
-
-            update(
-                node * 2,
-                start,
-                mid,
-                index,
-                c
-            );
-
-        } else {
-
-            update(
-                node * 2 + 1,
-                mid + 1,
-                end,
-                index,
-                c
-            );
-        }
-
-        tree[node] = merge(
-            tree[node * 2],
-            tree[node * 2 + 1]
-        );
-    }
-
-    // Merge two nodes
-    Node merge(Node left, Node right) {
-
-        Node result = new Node(left.leftChar);
-
-        result.length = left.length + right.length;
-
-        result.leftChar = left.leftChar;
-        result.rightChar = right.rightChar;
-
-        result.prefix = left.prefix;
-        result.suffix = right.suffix;
-
-        result.max = Math.max(
-            left.max,
-            right.max
-        );
-
-        // Boundary characters same
-        if(left.rightChar == right.leftChar) {
-
-            result.max = Math.max(
-                result.max,
-                left.suffix + right.prefix
-            );
-
-            // Entire left part is same character
-            if(left.prefix == left.length) {
-
-                result.prefix =
-                    left.length + right.prefix;
-            }
-
-            // Entire right part is same character
-            if(right.suffix == right.length) {
-
-                result.suffix =
-                    left.suffix + right.length;
-            }
-        }
-
-        return result;
     }
 }
