@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
