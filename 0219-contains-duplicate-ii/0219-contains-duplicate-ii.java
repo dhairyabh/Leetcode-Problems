@@ -6,8 +6,8 @@ class Solution {
                 int previousIndex = map.get(nums[i]);
 
                 if(i - previousIndex <= k) {
-                return true;
-            }
+                    return true;
+                }
             }
 
             
