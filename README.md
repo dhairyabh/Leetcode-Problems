@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
