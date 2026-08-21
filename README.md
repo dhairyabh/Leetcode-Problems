@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## Manacher
 |  |
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
