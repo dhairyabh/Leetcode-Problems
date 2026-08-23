@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
+| [1927-sum-game](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
