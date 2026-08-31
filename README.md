@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0968-binary-tree-cameras](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1927-sum-game) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
