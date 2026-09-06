@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0968-binary-tree-cameras](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
