@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1872-stone-game-viii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhairyabh/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
