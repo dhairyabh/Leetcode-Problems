@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/dhairyabh/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [1763-longest-nice-substring](https://github.com/dhairyabh/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dhairyabh/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
